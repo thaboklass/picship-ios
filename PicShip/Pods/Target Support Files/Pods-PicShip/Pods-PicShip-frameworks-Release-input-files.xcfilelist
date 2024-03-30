@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-PicShip/Pods-PicShip-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/FLAnimatedImage/FLAnimatedImage.framework
+${BUILT_PRODUCTS_DIR}/GPUImage/GPUImage.framework
+${PODS_ROOT}/../KanvasCameraSDK.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
