@@ -1,0 +1,39 @@
+{
+  "name": "KanvasCameraSDK",
+  "version": "1.0.0",
+  "summary": "Camera and Editing Tools SDK",
+  "homepage": "http://getkanvas.com/",
+  "authors": {
+    "Name": "tony@getkanvas.com"
+  },
+  "license": {
+    "type": "proprietary",
+    "file": "LICENSE"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "http": "http://getkanvas.com"
+  },
+  "frameworks": [
+    "UIKit",
+    "SystemConfiguration",
+    "Security"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "3.1.0"
+    ],
+    "SDWebImage": [
+      "4.0.0"
+    ],
+    "GPUImage": [
+      "0.1.7"
+    ],
+    "FLAnimatedImage": [
+      "1.0.12"
+    ]
+  },
+  "vendored_frameworks": "KanvasCameraSDK.framework"
+}

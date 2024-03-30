@@ -1,0 +1,16 @@
+{
+  "packsUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/stamps-index.json",
+  "filtersUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/ios-filters.json",
+  "stylesUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/prod-styles.json",
+  "analyticsDispatchPeriod": "90",
+  "versions": [
+    {
+      "version": 1110,
+      "configuration": {
+        "packsUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/stamps-index.json",
+        "filtersUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/ios-filters.json",
+        "stylesUrl": "https://d1d7t1ygvx8siu.cloudfront.net/SDK-Assets/iOS/prod-styles.json"
+      }
+    }
+  ]
+}
